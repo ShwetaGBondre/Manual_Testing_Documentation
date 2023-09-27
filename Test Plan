@@ -1,0 +1,18 @@
+Test Plan Template
+
+Parameter                       Description
+1 Test plan identifier          Uniquely identify test plan and may include the version number
+2 Introduction                  Sets objectives , scope,goals, resourse and budget constraints
+3 Test items                    List all system and subsystems which are to be tested
+4 Featuresr to be tested        All features and functionalities to be tested are listed here
+5 Feature not to be tested      List all features of software product that need not to be tesed
+6 Approach                      Has source of data ip and op testing priorities
+7 Items Pass/Fail               Describe a success criteria for evaluating the test results
+8 Suspension Criteria           Has criteria that may result in suspending testing activities
+9 Test deliverables             Include test cases , sample data , test report issue log.
+10 Testing tasks                Describe dependencies between tasks and resourses needed
+11 Environmental needed         List software hardware or other testing environment
+12 Responsibilities             Role and responsibilities assigned to team
+13 Schedule                     Details when testing activities will take place are listed
+14 Risks                        List overall risks of the project as it pretains testing
+15 Approvals                    Contains sign of all stackholders.
